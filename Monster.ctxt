@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monster()
+comment1.params=nIn\ lIn\ hIn\ maxHIn\ EXPIn
+comment1.target=Monster(java.lang.String,\ int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ setEXP()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getLevel()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=
+comment5.target=int\ getMaxHealth()
+comment6.params=b
+comment6.target=int\ Attack(int)
+comment7.params=
+comment7.target=int\ giveEXP()
+comment8.params=damage
+comment8.target=void\ loseHealth(int)
+comment9.params=health1
+comment9.target=void\ setHealth(int)
+numComments=11
