@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Armor()
+comment1.params=maxHIn\ nIn
+comment1.target=Armor(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getItemHealth()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
