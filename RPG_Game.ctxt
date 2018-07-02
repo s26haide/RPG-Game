@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=RPG_Game
-comment0.text=\ \r\n\ Author\:\ Sakin\ Haider\r\n\ Starting\ date\:\ May\ 6th\r\n\ Driver\ and\ Main\ Method\ for\ RPG\ Game\r\n\ ICS3U1\ Final\ Culminating\r\n\ Turn\ on\ sound\ for\ maximum\ experience\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=x
-comment2.target=void\ delay(int)
-numComments=3
